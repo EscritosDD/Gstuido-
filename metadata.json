@@ -1,0 +1,6 @@
+{
+  "name": "RAD Soldiers Portrait Studio",
+  "description": "3D stylized tactical character bust portraits (512x512 transparent PNGs) in the RAD Soldiers aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
